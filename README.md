@@ -1,0 +1,2 @@
+# Credit-Card-Deault-Assesment
+This is data for customers using Credit Card , having 25 columns with their Eductaion, Martial Status, Age , Pays and previous Bill and payments for cc, so based on this information we will predict whether in future the customer will default the CC payment or not.  I am using XGBoost for model, Randomised search for parameter tuning and also made it in 3 hidden layer Artificial neural network with SGD optimizer.
